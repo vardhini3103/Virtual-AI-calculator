@@ -63,3 +63,6 @@ To interact with the calculator, follow these drawing rules:
 - Send the visual drawing to the AI model by lifting the little finger.
 The AI model will then interpret the drawing and display a detailed solution.
 
+---
+You can access the demo video here: [demo video](https://drive.google.com/drive/folders/1AEL24X6pgOshKlU1WQ2cYHiF2BRtp-no?usp=sharing)
+
